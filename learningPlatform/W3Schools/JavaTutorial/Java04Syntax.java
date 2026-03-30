@@ -7,7 +7,9 @@ public class Java04Syntax {
 
 }
 
-// Every line of code that runs in Java must be inside a class. And the class name should always start with an uppercase first letter. In our example, we named the class Java04Syntax.
+// Every line of code that runs in Java must be inside a class.
+// And the class name should always start with an uppercase first letter.
+// In our example, we named the class Java04Syntax.
 
 // Note: Java is case-sensitive: "Java04Syntax" and "java04Syntax" has different meaning.
 

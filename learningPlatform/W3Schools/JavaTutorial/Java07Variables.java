@@ -18,7 +18,7 @@ public class Java07Variables {
     // type variableName = value;
 
     // VARIABLES:
-    
+
     public static void main(String[] args) {
         String name = "John";
         System.out.println(name);
@@ -36,16 +36,14 @@ public class Java07Variables {
 
         final int myNum4 = 25;
         System.out.println(myNum4);
-        // myNum4 = 20; // will generate an error: cannot assign a value to a final variable
+        // myNum4 = 20;
+        // will generate an error: cannot assign a value to a final variable
 
         // PRINT VARIABLES:
-        //To combine both text and a variable, use the + character:
+        // To combine both text and a variable, use the + character:
 
         String name1 = "Mike";
         System.out.println("My name is : " + name1);
-
-
-
     }
 
 }
